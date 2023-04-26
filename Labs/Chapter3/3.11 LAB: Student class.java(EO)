@@ -6,7 +6,7 @@
     Default constructor
     Public member methods
         setName() & getName()
-        setGPA() & getGPA() **/
+        setGPA() & getGPA()*/
         
 public class Student {
    // Build Student class with public methods and private fields listed above
