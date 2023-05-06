@@ -67,7 +67,8 @@ abstract class EmployeePerson {
 
    // Ensure each subclass has a getAnnualBonus() method
    abstract int getAnnualBonus();
-} ------end of file-------
+} 
+//------end of file-------
 public class EmployeeManager extends EmployeePerson {
    private int numManaged;    // Number of staff managed
 
@@ -117,7 +118,8 @@ public class EmployeeManager extends EmployeePerson {
       return (int)(annualSalary * 0.10);
    } */
    // ***********************************************************************
-} -----end of file-------
+} 
+//-----end of file-------
 public class EmployeeStaff extends EmployeePerson {
    private String managerName;
 
