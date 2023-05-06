@@ -27,7 +27,7 @@ public class Member {
 		System.out.printf(", Height: %.2f\n", height);
    }
 }
-------end of file--------
+//------end of file--------
 import java.util.Scanner;
 
 public class MemberList {
@@ -83,7 +83,7 @@ public class Animal {
       System.out.println("Color: " + color + ", Age: " + age + ", Name: " + name);
    }
 }
-------end of file-------
+//------end of file-------
 import java.util.Scanner;
 
 public class FavoriteAnimals {
