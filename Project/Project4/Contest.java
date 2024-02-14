@@ -1,3 +1,5 @@
+//The ALL JAVA ALL DAY podcast is raffling off a GPU! Entrants are asked to provide their names, email addresses, and 
+//which version of the JDK they work with most. One winner will be selected from among the entrants. 
 import java.util.Random;
 import java.util.Scanner;
 
