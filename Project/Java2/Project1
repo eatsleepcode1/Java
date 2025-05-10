@@ -1,0 +1,45 @@
+//Stack Program
+//Create a deck of cards using an array (Array size 14).  Each card is an object (Card class).  So you will have to create several Cards that are named (one - ten, Jack, Queen, King, Ace) and (Heart, Spade, Diamond, Clubs).  You will create a stack and randomly pick a card from the deck to put be pushed onto the stack.  You will repeat this 5 times.  Then you will take cards off the top of the stack (pop) and reveal the values of the cards in the output.   
+
+//Queue and ArrayList Program
+//There is a new concert coming to town.  This concert is popular and has a long line.  The line uses the data structure Queue.  The people in the line are Objects (Person class).  Person object has a name and ticket number.  Create 7 people and randomly add them to the line.  Create 7 random ticket numbers and add them to an ArrayList.  As each person is dequeued from the line, they are assigned a ticket number (Use print statements to print the name and their assigned ticket number).  Print each person being dequeued from the line (name and ticket number).
+
+//Map Program
+//In this program, you will design a program that acts as an electronic address book.
+//This program must do the following:
+    //Allow the user to add addresses to the address book.
+    //Allow the user to remove addresses from the address book.
+    //Allow the user to see how many addresses are in the book.
+    //Allow the user to list all addresses in the book.
+    //Allow the user to find an address by last name.
+//Process:
+    //Design an Address class to hold address information.
+    //Design an AddressBook class that has a Collection of Address objects.  It should also have methods to do the following:
+        //Add an address
+        //Remove and address
+        //Find an address by last name
+        //Return a count of Addresses in the AddressBook
+        //Return all of the Addresses in the AddressBook
+    //Design a AddressBookController class.  This class should do the following:
+        //Handle all the interaction with the user.
+        //Create the ConsoleIO class to handle the all console input and output.
+        //Use the AddressBook class to store Address objects.
+//Sample Output:
+//Initial Menu:
+//Please select the operation you wish to perform:
+            //Add Address
+            //Delete Address
+            //Find Address
+            //List Address Count
+            //List All Addresses
+//Add Address Menu:
+//Please enter first name:
+//Please enter last name:
+//Please enter street address:
+//.
+//.
+//.
+//Address Added. Press 1 to go to Main Menu
+//Submission
+//Submit the .java files for your programs.  There should be a total of 3 .java files at minimum. Output screenshots should be put together neatly on a PDF.
+
