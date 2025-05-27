@@ -1,5 +1,6 @@
 //Stack Program
 //Create a deck of cards using an array (Array size 14).  Each card is an object (Card class).  So you will have to create several Cards that are named (one - ten, Jack, Queen, King, Ace) and (Heart, Spade, Diamond, Clubs).  You will create a stack and randomly pick a card from the deck to put be pushed onto the stack.  You will repeat this 5 times.  Then you will take cards off the top of the stack (pop) and reveal the values of the cards in the output.   
+//see Java/Project/Java2/Cards.java
 
 //Queue and ArrayList Program
 //There is a new concert coming to town.  This concert is popular and has a long line.  The line uses the data structure Queue.  The people in the line are Objects (Person class).  Person object has a name and ticket number.  Create 7 people and randomly add them to the line.  Create 7 random ticket numbers and add them to an ArrayList.  As each person is dequeued from the line, they are assigned a ticket number (Use print statements to print the name and their assigned ticket number).  Print each person being dequeued from the line (name and ticket number).
