@@ -1,3 +1,9 @@
+//Stack Program
+//Create a deck of cards using an array (Array size 14).  Each card is an object (Card class).  
+//So you will have to create several Cards that are named (one - ten, Jack, Queen, King, Ace) and (Heart, Spade, Diamond, Clubs).  
+//You will create a stack and randomly pick a card from the deck to put be pushed onto the stack.  You will repeat this 5 times.  
+//Then you will take cards off the top of the stack (pop) and reveal the values of the cards in the output.
+
 public class Cards {
     private String suits;
     private String name;
